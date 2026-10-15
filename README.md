@@ -133,7 +133,7 @@ flowchart LR
 | **3** | Data Structures & Algorithms | ![](https://img.shields.io/badge/-██████████_100%25-2ea44f?style=flat-square) | 🟢 |
 | **4** | HTTP & REST | ![](https://img.shields.io/badge/-██████████_100%25-2ea44f?style=flat-square) | 🟢 |
 | **5** | FastAPI Fundamentals | ![](https://img.shields.io/badge/-██████████_100%25-2ea44f?style=flat-square) | 🟢 |
-| **6** | Pydantic, DI & Project Structure | ![](https://img.shields.io/badge/-█████████░_90%25-7bc043?style=flat-square) | 🟡 |
+| **6** | Pydantic, DI & Project Structure | ![](https://img.shields.io/badge/-██████████_100%25-7bc043?style=flat-square) | 🟡 |
 | **7** | PostgreSQL + SQLAlchemy | ![](https://img.shields.io/badge/-███████░░░_70%25-f1c40f?style=flat-square) | 🟡 |
 | **8** | Alembic + Authentication | ![](https://img.shields.io/badge/-███████░░░_70%25-f1c40f?style=flat-square) | 🟡 |
 | **9** | Testing + Production Basics | ![](https://img.shields.io/badge/-██████░░░░_60%25-f39c12?style=flat-square) | 🟡 |
@@ -277,7 +277,7 @@ app/
 </details>
 
 <details>
-<summary><b>🟢🟡 Level 6 — Pydantic, Dependency Injection & Project Structure</b></summary>
+<summary><b>🟡 Level 6 — Pydantic, Dependency Injection & Project Structure</b></summary>
 <br/>
 
 `BaseModel` · `Field` · `Validation` · `Nested models` · `Enums` · `Serialization` · `Pydantic v2` · `Depends()` · `yield dependencies` · `APIRouter` · `Schemas` · `Models` · `Services` · `Dependencies` · `Configuration`
@@ -350,7 +350,7 @@ flowchart LR
 | Project | Description | Stack |
 |:--|:--|:--|
 | [**DeepCount**](https://github.com/shngal/REPO_NAME_1) | Industrial AI Backend | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| [**CellScope 2**](https://github.com/shngal/REPO_NAME_2) | Medical Computer Vision Project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**CellScope**](https://github.com/shngal/REPO_NAME_2) | Medical Computer Vision Project | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 <br/>
 
